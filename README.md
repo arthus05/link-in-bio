@@ -1,17 +1,8 @@
-Link-in-bio for Craftzdog
+Link-in-bio
 =========================
 
-https://links.craftz.dog/
+https://links.arthusvinicius.com/
 
-![thumbnail](./thumb.jpg)
+Links page inspired by Takuya Matsuyama's youtube [video](https://www.youtube.com/watch?v=u71pHOyvBp0) 
 
-[Video tutorial available here](https://youtu.be/u71pHOyvBp0).
-
-## License
-
-MIT by Takuya Matsuyama
-
-You can create your own link-in-bio page for free without notifying me by forking this project under the following conditions:
-
-- Add a link to [my homepage](https://www.craftz.dog/) anywhere
-- Do not use the Japanese garden picture
+Build with html, css and vanilla javascript.
